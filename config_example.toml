@@ -1,0 +1,5 @@
+SMTPServer = ""
+Port = 587
+Username = ""
+Password = ""
+To = ["", ""]
